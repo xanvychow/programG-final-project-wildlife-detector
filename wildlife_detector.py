@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import pandas as pd
 import numpy as np
-import cv2 as cv
+# import cv2 as cv
 import cvlib
 from cvlib.object_detection import draw_bbox
 import matplotlib.pyplot as plt
