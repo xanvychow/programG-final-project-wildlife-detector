@@ -7,6 +7,7 @@ import cvlib
 from cvlib.object_detection import draw_bbox
 import matplotlib.pyplot as plt
 import csv
+import sklearn
 chart_data = pd.read_csv("raw_data.csv")
 count = pd.read_csv("count.csv")
 
